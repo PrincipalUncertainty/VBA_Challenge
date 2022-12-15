@@ -11,6 +11,8 @@ The purpose of this project is to assess the daily volume of stocks relative to 
 ### Outcomes and Conlusions
 The analysis showed that with a stock's greater daily trade volume the return would generally yield higher than stocks with lower volume. However, it's clear that stocks were more significantly responsive to larger market trends as indicated by their generally collective positive or negative return over year (2017 = positive & 2018 = negative).
 
+## State and Actions
+
 ### Refactoring
 Refactoring is an essential part of any project. Some specific code can be useful for first iterations, but over time refactoring code to a more efficient state can set up loops requiring fewer steps, use less memory, and generally improve the logic to make it easier to read and apply later.
 
@@ -18,3 +20,6 @@ Refactoring is relevant in this project because the standard code may be utilize
 
 ## Appendix
 See resources folder for images relevant here.
+![2017 Execution Time](https://user-images.githubusercontent.com/118647677/207770930-75d9d8d7-6c80-425c-9d8b-3a8db34c1fc2.png)
+![2018 Execution Time](https://user-images.githubusercontent.com/118647677/207770941-3ff5ca44-aca4-41ce-a07f-9e04de4c3bbc.png)
+
